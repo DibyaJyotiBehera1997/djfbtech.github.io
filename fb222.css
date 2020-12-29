@@ -1,0 +1,268 @@
+body{
+  background-color:whitesmoke;
+margin: inherit;
+}
+
+header{
+display: flex;
+justify-content:space-around;
+background-color: rgb(66,103,178);
+width:1400px;
+color: white;
+font-size: 15px;
+font-weight: bold;
+height:110px;
+padding-right: 44px;
+padding-left: 99px;
+margin-left: 40px;
+border-bottom-color: black;
+}
+
+#f1{
+  margin-left:118px;
+  justify-content: flex-start;
+}
+
+#E1{
+  margin-left: 20px;
+  margin-bottom:80px;
+}
+
+#E2{
+  margin-top:80px;
+}
+
+#p1{
+  margin-left:100px;
+}
+
+#p2{
+  margin-top: 80px;
+  margin-bottom: 10px;
+  margin-right: 100px;
+}
+
+#button1{
+  background-color: rgb(66,103,178);
+  color:white;
+  border-color: rgb(66,103,178);
+  border-style: outset;
+  width: 60px;
+  margin-right: 320px;
+  margin-top: 40px;
+}
+
+#fp1{
+  margin-top: 48px;
+  margin-right:320px;
+}
+
+#para{
+  font-size: 21px;
+  background-color:whitesmoke;
+  margin-left: 100px;
+  width:px;
+}
+
+#img1:hover{
+  filter: invert(100);
+}
+
+#img2:hover{
+filter: invert(100);
+}
+
+#img3:hover{
+  filter: invert(100);
+}
+
+#img4:hover{
+  filter: invert(100);
+}
+
+#img5:hover{
+  filter: invert(100);
+}
+
+#img6:hover{
+  filter: invert(100);
+}
+
+#img7:hover{
+  filter: invert(100);
+}
+
+#img8:hover{
+  filter: invert(100);
+}
+
+#img9:hover{
+  filter: invert(100);
+}
+
+#img10:hover{
+  filter: invert(100);
+}
+
+#img11:hover{
+  filter: invert(100);
+}
+
+#img12:hover{
+  filter: invert(100);
+}
+
+#img13:hover{
+  filter: invert(100);
+}
+
+#img14:hover{
+  filter: invert(100);
+}
+
+#img15:hover{
+  filter: invert(100);
+}
+
+#img16:hover{
+  transform: skewX(20deg);
+}
+
+#img17:hover{
+filter: invert(100);
+}
+
+#img18:hover{
+  filter: invert(100);
+}
+
+#img19:hover{
+  filter: invert(100);
+}
+
+#img20:hover{
+  filter: invert(100);
+}
+
+#img21:hover{
+  filter: invert(100);
+}
+
+#img22:hover{
+  filter: invert(100);
+}
+
+#img23:hover{
+  filter: invert(100);
+}
+
+#img24:hover{
+  filter: invert(100);
+}
+
+#img25:hover{
+  filter: invert(100);
+}
+
+#img26:hover{
+  filter: invert(100);
+}
+
+#img27:hover{
+  filter: invert(100);
+}
+
+#img28:hover{
+  filter: invert(100);
+}
+
+#img29:hover{
+  filter: invert(100);
+}
+
+#img30:hover{
+  filter: invert(100);
+}
+
+main{
+  background-color:whitesmoke;
+border-spacing: 40px 300px;
+  margin-left:790px;
+  margin-right: 400px;
+  margin-bottom: 200px;
+  padding-top: 39px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 21px;
+  width:520px;
+  line-height:none;
+  text-align:justify;
+}
+
+#Fi1{
+  width:170px;
+  height: 30px;
+  border-style:outset;
+  margin-bottom: 10px;
+}
+
+#S1{
+  width:170px;
+  height: 30px;
+  border-style:outset;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#M1{
+  width:220px;
+  height: 30px;
+  border-style:outset;
+}
+
+#N1{
+  width:220px;
+  height: 30px;
+  border-style:outset;
+  margin-top: 10px;
+}
+
+#birthday{
+  margin-top: 10px;
+}
+
+#option{
+  justify-content: space-between;
+  margin-right: 10px;
+}
+
+#G1{
+  margin-top: 10px;
+}
+
+#G2{
+  margin-left: 5px;
+}
+
+#sign1{
+  background-color: limegreen;
+  border-radius:100px;
+  height:50px;
+  width:200px;
+}
+
+footer{
+background-color:white;
+height: 170px;
+margin-left: 118px;
+font-size: 20px;
+}
+
+#button2{
+margin-left: 15px;
+}
+
+#foot1{
+  text-decoration: underline;
+  text-decoration-color: dimgray;
+}
